@@ -1,0 +1,1 @@
+# wfda-typescript-shape
